@@ -8,6 +8,6 @@ public class ExcelUtils {
     // write from excel
 
     
-    // updating informtion 
+    // updating information
 
 }
